@@ -9,3 +9,6 @@ dependencies:
   - matplotlib
   - nb_conda_kernels
   - ipykernel
+  - ipython
+  - ipywidgets
+  - threading
