@@ -1,0 +1,11 @@
+name: venv_MoveNet_test1
+dependencies:
+  - python=3.9
+  - opencv
+  - numpy
+  - pandas
+  - tensorflow
+#  - tensorflow-gpu
+  - matplotlib
+  - nb_conda_kernels
+  - ipykernel
