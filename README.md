@@ -20,7 +20,7 @@ conda list
 
 to make it show up on our kernel 
 ```shell
-ipython kernel install --user --name=venv_MoveNet
+ipython kernel install --user --name=venv_MoveNet_test1
 ```
 
 restart the kernel if needed 
