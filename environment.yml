@@ -10,5 +10,11 @@ dependencies:
   - nb_conda_kernels
   - ipykernel
   - ipython
-  - ipywidgets
-  - threading
+#  - ipywidgets
+#  - threading
+  - scipy
+#  - adjusttext
+  - tqdm
+  - pip
+  - pip:
+      - adjustText
