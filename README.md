@@ -3,6 +3,10 @@
 Center of mass identification model built with MoveNet for 
 athletic video analysis 
 
+## Prerequisites
+Download MPII images from http://human-pose.mpi-inf.mpg.de/#download 
+and place all images `*.jpg` in the `/data/mpii/images` folder.
+
 ## Creating the virtual environment and installing dependencies
 ```shell
 conda env create -f environment.yml
